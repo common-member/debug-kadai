@@ -1,2 +1,0 @@
-# debug-kadai
-# debug-kadai
